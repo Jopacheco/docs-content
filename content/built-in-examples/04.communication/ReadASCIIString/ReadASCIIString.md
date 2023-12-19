@@ -31,7 +31,7 @@ This sketch uses the [Serial.parseInt](https://www.arduino.cc/en/Reference/Parse
 
 ### Schematic
 
-![](assets/schematic.png)
+![](assets/schematic.png) 
 
 You'll need four wires to make the circuit above. A wire connects the 5V from the POWER connector of the board to the longest pin of the RGB LED. You should turn the LED so that the longest pin is the second from the left..
 
